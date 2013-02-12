@@ -1,6 +1,6 @@
 #Lemniscata#
 
-```
+```latex
 \documentclass[12pt,letterpaper]{book}
 \usepackage[utf8x]{inputenc}
 \usepackage[spanish]{babel}
@@ -34,7 +34,6 @@
 \chapter{Pantalla de inicio de sesión}
 \section{La pantalla de inicio de sesión incluye los siguientes elementos}
 \end{document}
-
 ```
 
 <http://lemniscata.scesi.org>
